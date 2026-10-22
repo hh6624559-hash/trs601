@@ -1,0 +1,205 @@
+# lemma|pos|cefr|ipa|definition_en|definition_vi|example_en|example_vi|topics
+# Nguồn: biên soạn gốc cho dự án TRS6 (license: CC0-1.0). Chủ dự án rà soát trước khi phát hành công khai.
+book|noun|A1|/bʊk/|a set of printed pages fastened together|quyển sách|I read a book every night.|Tối nào mình cũng đọc một quyển sách.|school,hobbies
+pen|noun|A1|/pen/|a tool for writing with ink|cái bút mực|Can I borrow your pen?|Cho mình mượn bút của bạn được không?|school
+pencil|noun|A1|/ˈpensl/|a thin tool for writing or drawing, made of wood and graphite|bút chì|Draw it with a pencil first.|Hãy vẽ bằng bút chì trước.|school
+desk|noun|A1|/desk/|a table where you read or write|bàn học|My desk is next to the window.|Bàn học của mình ở cạnh cửa sổ.|school
+teacher|noun|A1|/ˈtiːtʃər/|a person who helps students learn|giáo viên|Our teacher is very kind.|Cô giáo của chúng mình rất hiền.|school,work
+student|noun|A1|/ˈstuːdnt/|a person who studies at a school|học sinh|Every student has a notebook.|Học sinh nào cũng có một quyển vở.|school
+class|noun|A1|/klɑːs/|a group of students who learn together|lớp học|There are thirty students in my class.|Lớp mình có ba mươi học sinh.|school
+homework|noun|A1|/ˈhoʊmwɜːrk/|schoolwork you do at home|bài tập về nhà|I finish my homework before dinner.|Mình làm xong bài tập về nhà trước bữa tối.|school
+lesson|noun|A1|/ˈlesn/|a period of time when you learn something|bài học, tiết học|Today's lesson is about animals.|Bài học hôm nay nói về các con vật.|school
+exam|noun|A2|/ɪɡˈzæm/|a formal test of what you know|kỳ thi|I have an exam on Monday.|Thứ Hai mình có một kỳ thi.|school
+notebook|noun|A1|/ˈnoʊtbʊk/|a book with empty pages for writing notes|quyển vở|Write the new words in your notebook.|Hãy viết từ mới vào vở của bạn.|school
+library|noun|A2|/ˈlaɪbreri/|a place where you can borrow books|thư viện|We study in the library after class.|Bọn mình học trong thư viện sau giờ học.|school
+learn|verb|A1|/lɜːrn/|to get knowledge or a new skill|học, học được|She wants to learn English.|Cô ấy muốn học tiếng Anh.|school
+study|verb|A1|/ˈstʌdi/|to spend time learning about a subject|học bài, nghiên cứu|I study for one hour every day.|Mỗi ngày mình học bài một tiếng.|school
+read|verb|A1|/riːd/|to look at words and understand them|đọc|He likes to read comic books.|Cậu ấy thích đọc truyện tranh.|school,hobbies
+write|verb|A1|/raɪt/|to put words on paper or a screen|viết|Please write your name here.|Hãy viết tên bạn ở đây.|school
+answer|noun|A1|/ˈænsər/|what you say or write when someone asks a question|câu trả lời|Do you know the answer?|Bạn có biết câu trả lời không?|school
+question|noun|A1|/ˈkwestʃən/|a sentence that asks for information|câu hỏi|May I ask a question?|Mình hỏi một câu được không?|school
+mistake|noun|A2|/mɪˈsteɪk/|something that is not correct|lỗi sai|Everyone makes mistakes when learning.|Ai học cũng mắc lỗi sai.|school
+remember|verb|A2|/rɪˈmembər/|to keep something in your memory|nhớ|I remember her phone number.|Mình nhớ số điện thoại của cô ấy.|school
+forget|verb|A2|/fərˈɡet/|to be unable to remember|quên|Don't forget your umbrella.|Đừng quên mang ô nhé.|school,daily
+practice|verb|A2|/ˈpræktɪs/|to do something again and again to get better|luyện tập|You should practice speaking every day.|Bạn nên luyện nói mỗi ngày.|school,hobbies
+vocabulary|noun|B1|/voʊˈkæbjəleri/|all the words that a person knows|vốn từ vựng|Reading helps build your vocabulary.|Đọc sách giúp tăng vốn từ vựng của bạn.|school,academic
+grammar|noun|B1|/ˈɡræmər/|the rules for how words are used in a language|ngữ pháp|English grammar can be tricky.|Ngữ pháp tiếng Anh đôi khi khá khó.|school,academic
+mother|noun|A1|/ˈmʌðər/|your female parent|mẹ|My mother cooks very well.|Mẹ mình nấu ăn rất ngon.|family
+father|noun|A1|/ˈfɑːðər/|your male parent|bố, cha|My father drives to work.|Bố mình lái xe đi làm.|family
+sister|noun|A1|/ˈsɪstər/|a girl or woman with the same parents as you|chị/em gái|My sister is older than me.|Chị gái mình lớn hơn mình.|family
+brother|noun|A1|/ˈbrʌðər/|a boy or man with the same parents as you|anh/em trai|My brother plays football.|Em trai mình chơi bóng đá.|family
+grandmother|noun|A1|/ˈɡrænmʌðər/|the mother of your mother or father|bà (nội/ngoại)|My grandmother tells great stories.|Bà mình kể chuyện rất hay.|family
+grandfather|noun|A1|/ˈɡrænfɑːðər/|the father of your mother or father|ông (nội/ngoại)|My grandfather grows flowers.|Ông mình trồng hoa.|family
+family|noun|A1|/ˈfæməli/|a group of people who are related|gia đình|I live with my family.|Mình sống cùng gia đình.|family
+parents|noun|A1|/ˈperənts/|your mother and father|bố mẹ|My parents work in a bank.|Bố mẹ mình làm ở ngân hàng.|family
+cousin|noun|A2|/ˈkʌzn/|a child of your uncle or aunt|anh/chị/em họ|My cousin visits us in summer.|Anh họ mình đến thăm vào mùa hè.|family
+uncle|noun|A1|/ˈʌŋkl/|the brother of your mother or father|chú, bác, cậu|My uncle lives in Hanoi.|Chú mình sống ở Hà Nội.|family
+aunt|noun|A1|/ænt/|the sister of your mother or father|cô, dì, bác gái|My aunt is a nurse.|Dì mình là y tá.|family
+friend|noun|A1|/frend/|a person you like and know well|bạn bè|She is my best friend.|Cô ấy là bạn thân nhất của mình.|family,daily
+neighbor|noun|A2|/ˈneɪbər/|a person who lives near you|hàng xóm|Our neighbor has a friendly dog.|Hàng xóm nhà mình có một chú chó thân thiện.|family
+baby|noun|A1|/ˈbeɪbi/|a very young child|em bé|The baby is sleeping.|Em bé đang ngủ.|family
+rice|noun|A1|/raɪs/|small white grains cooked and eaten as food|cơm, gạo|We eat rice every day.|Nhà mình ăn cơm mỗi ngày.|food
+bread|noun|A1|/bred/|a baked food made from flour|bánh mì|I have bread for breakfast.|Mình ăn bánh mì vào bữa sáng.|food
+egg|noun|A1|/eɡ/|an oval food laid by a hen|trứng|Would you like an egg?|Bạn có muốn ăn một quả trứng không?|food
+milk|noun|A1|/mɪlk/|a white drink from cows|sữa|I drink milk in the morning.|Buổi sáng mình uống sữa.|food
+water|noun|A1|/ˈwɔːtər/|a clear liquid you drink|nước|Please drink more water.|Hãy uống nhiều nước hơn.|food,nature
+fruit|noun|A1|/fruːt/|a sweet food that grows on trees or plants|trái cây|Mango is my favorite fruit.|Xoài là loại trái cây mình thích nhất.|food
+vegetable|noun|A2|/ˈvedʒtəbl/|a plant you eat, like carrots or beans|rau củ|Eat more vegetables.|Hãy ăn nhiều rau củ hơn.|food
+apple|noun|A1|/ˈæpl/|a round fruit with red or green skin|quả táo|An apple a day is good for you.|Mỗi ngày một quả táo là tốt cho bạn.|food
+banana|noun|A1|/bəˈnænə/|a long curved yellow fruit|quả chuối|He peeled a banana.|Cậu ấy bóc một quả chuối.|food
+chicken|noun|A1|/ˈtʃɪkɪn/|a bird kept for its eggs and meat|con gà, thịt gà|We had chicken for lunch.|Bữa trưa bọn mình ăn thịt gà.|food,animals
+fish|noun|A1|/fɪʃ/|an animal that lives in water; also its meat|con cá, thịt cá|Fish swim in the river.|Cá bơi trong dòng sông.|food,animals
+soup|noun|A2|/suːp/|a hot liquid food|món súp, canh|This soup is delicious.|Món súp này ngon quá.|food
+breakfast|noun|A1|/ˈbrekfəst/|the first meal of the day|bữa sáng|What do you have for breakfast?|Bạn ăn gì cho bữa sáng?|food,daily
+lunch|noun|A1|/lʌntʃ/|the meal in the middle of the day|bữa trưa|We eat lunch at noon.|Bọn mình ăn trưa lúc 12 giờ.|food,daily
+dinner|noun|A1|/ˈdɪnər/|the main meal in the evening|bữa tối|Dinner is ready!|Bữa tối xong rồi!|food,daily
+delicious|adjective|A2|/dɪˈlɪʃəs/|tasting very good|ngon|The cake was delicious.|Chiếc bánh rất ngon.|food
+hungry|adjective|A1|/ˈhʌŋɡri/|wanting to eat|đói|I am hungry after school.|Tan học mình đói bụng.|food,feelings
+thirsty|adjective|A1|/ˈθɜːrsti/|wanting to drink|khát|Are you thirsty?|Bạn có khát không?|food,feelings
+cook|verb|A2|/kʊk/|to prepare food by heating it|nấu ăn|My dad likes to cook on Sundays.|Bố mình thích nấu ăn vào Chủ nhật.|food
+ingredient|noun|B1|/ɪnˈɡriːdiənt/|one of the foods used to make a dish|nguyên liệu|Eggs are the main ingredient.|Trứng là nguyên liệu chính.|food
+recipe|noun|B1|/ˈresəpi/|instructions for cooking a dish|công thức nấu ăn|Can you share the recipe?|Bạn chia sẻ công thức nấu ăn được không?|food
+travel|verb|A2|/ˈtrævl/|to go from one place to another, often far away|đi du lịch|They love to travel in summer.|Họ thích đi du lịch vào mùa hè.|travel
+trip|noun|A2|/trɪp/|a journey to a place and back|chuyến đi|We took a trip to the beach.|Bọn mình có một chuyến đi biển.|travel
+airport|noun|A2|/ˈerpɔːrt/|a place where planes take off and land|sân bay|We arrived at the airport early.|Bọn mình đến sân bay sớm.|travel
+ticket|noun|A2|/ˈtɪkɪt/|a piece of paper that lets you travel or enter|vé|I bought two tickets.|Mình đã mua hai vé.|travel
+passport|noun|B1|/ˈpæspɔːrt/|an official document for travelling to other countries|hộ chiếu|Don't lose your passport.|Đừng làm mất hộ chiếu nhé.|travel
+hotel|noun|A1|/hoʊˈtel/|a place where you pay to stay the night|khách sạn|The hotel is near the station.|Khách sạn ở gần nhà ga.|travel
+luggage|noun|B1|/ˈlʌɡɪdʒ/|bags and cases you take when you travel|hành lý|My luggage is very heavy.|Hành lý của mình nặng quá.|travel
+map|noun|A1|/mæp/|a drawing that shows where places are|bản đồ|Look at the map to find the street.|Hãy nhìn bản đồ để tìm đường phố.|travel
+station|noun|A2|/ˈsteɪʃn/|a place where trains or buses stop|nhà ga, trạm|The station is five minutes away.|Nhà ga cách đây năm phút.|travel
+bus|noun|A1|/bʌs/|a large vehicle that carries many people|xe buýt|I go to school by bus.|Mình đi học bằng xe buýt.|travel
+train|noun|A1|/treɪn/|a long vehicle that runs on rails|tàu hoả|The train leaves at eight.|Tàu hoả khởi hành lúc tám giờ.|travel
+visit|verb|A2|/ˈvɪzɪt/|to go to see a person or place|thăm, tham quan|We visit my grandparents every Tet.|Mỗi dịp Tết bọn mình về thăm ông bà.|travel,family
+beach|noun|A1|/biːtʃ/|an area of sand next to the sea|bãi biển|The kids play on the beach.|Lũ trẻ chơi trên bãi biển.|travel,nature
+tourist|noun|B1|/ˈtʊrɪst/|a person who visits a place for fun|khách du lịch|Many tourists visit Ha Long Bay.|Nhiều khách du lịch đến thăm vịnh Hạ Long.|travel
+dog|noun|A1|/dɔːɡ/|a common pet that barks|con chó|My dog loves to run.|Chú chó của mình thích chạy.|animals
+cat|noun|A1|/kæt/|a small furry pet that says meow|con mèo|The cat is on the sofa.|Con mèo nằm trên ghế sofa.|animals
+bird|noun|A1|/bɜːrd/|an animal with wings and feathers|con chim|A bird sings in the tree.|Một chú chim hót trên cây.|animals
+horse|noun|A1|/hɔːrs/|a large animal that people ride|con ngựa|She rides a horse on weekends.|Cuối tuần cô ấy cưỡi ngựa.|animals
+elephant|noun|A1|/ˈelɪfənt/|a very large grey animal with a long nose|con voi|The elephant drinks a lot of water.|Con voi uống rất nhiều nước.|animals
+monkey|noun|A1|/ˈmʌŋki/|a clever animal that climbs trees|con khỉ|The monkey eats a banana.|Con khỉ đang ăn chuối.|animals
+rabbit|noun|A1|/ˈræbɪt/|a small animal with long ears|con thỏ|The rabbit hopped away.|Con thỏ nhảy đi mất.|animals
+tiger|noun|A2|/ˈtaɪɡər/|a large wild cat with stripes|con hổ|The tiger is a strong hunter.|Con hổ là một thợ săn mạnh mẽ.|animals
+pet|noun|A1|/pet/|an animal you keep at home|thú cưng|Do you have a pet?|Bạn có nuôi thú cưng không?|animals
+farm|noun|A2|/fɑːrm/|land where people grow crops or keep animals|nông trại|They have a farm in the countryside.|Họ có một nông trại ở miền quê.|animals,nature
+head|noun|A1|/hed/|the top part of your body, with your face|cái đầu|She hurt her head.|Cô ấy bị đau đầu.|body
+hand|noun|A1|/hænd/|the part of your body at the end of your arm|bàn tay|Wash your hands before eating.|Hãy rửa tay trước khi ăn.|body
+eye|noun|A1|/aɪ/|the part of your body you see with|con mắt|She has big brown eyes.|Cô ấy có đôi mắt nâu to.|body
+ear|noun|A1|/ɪr/|the part of your body you hear with|cái tai|A rabbit has long ears.|Thỏ có đôi tai dài.|body
+mouth|noun|A1|/maʊθ/|the part of your face you eat and speak with|cái miệng|Open your mouth, please.|Làm ơn há miệng ra.|body
+leg|noun|A1|/leɡ/|the part of your body you walk on|cái chân|My leg hurts after running.|Chân mình đau sau khi chạy.|body
+heart|noun|A2|/hɑːrt/|the organ that pumps blood; also a symbol of love|trái tim|Exercise is good for your heart.|Tập thể dục tốt cho tim.|body,feelings
+healthy|adjective|A2|/ˈhelθi/|strong and well, not sick|khoẻ mạnh|Fruit keeps you healthy.|Trái cây giúp bạn khoẻ mạnh.|body
+sick|adjective|A2|/sɪk/|not well; having an illness|ốm, bệnh|He stayed home because he was sick.|Cậu ấy ở nhà vì bị ốm.|body
+doctor|noun|A1|/ˈdɑːktər/|a person who treats sick people|bác sĩ|The doctor checked my throat.|Bác sĩ kiểm tra họng cho mình.|body,work
+medicine|noun|B1|/ˈmedsn/|something you take to get better when you are ill|thuốc|Take this medicine twice a day.|Uống thuốc này hai lần mỗi ngày.|body
+exercise|noun|A2|/ˈeksərsaɪz/|physical activity that keeps you fit|bài tập thể dục|Daily exercise makes you stronger.|Tập thể dục mỗi ngày giúp bạn khoẻ hơn.|body,hobbies
+sleep|verb|A1|/sliːp/|to rest with your eyes closed|ngủ|Children need to sleep early.|Trẻ em cần đi ngủ sớm.|body,daily
+happy|adjective|A1|/ˈhæpi/|feeling pleasure and joy|vui, hạnh phúc|I am happy to see you.|Mình rất vui được gặp bạn.|feelings
+sad|adjective|A1|/sæd/|feeling unhappy|buồn|She felt sad when it rained.|Cô ấy thấy buồn khi trời mưa.|feelings
+angry|adjective|A2|/ˈæŋɡri/|feeling that you want to shout at someone|tức giận|He was angry about the noise.|Anh ấy tức giận vì tiếng ồn.|feelings
+tired|adjective|A1|/ˈtaɪərd/|needing rest or sleep|mệt|I am tired after the long walk.|Mình mệt sau chuyến đi bộ dài.|feelings
+afraid|adjective|A2|/əˈfreɪd/|feeling fear|sợ hãi|Don't be afraid of mistakes.|Đừng sợ mắc lỗi.|feelings
+excited|adjective|A2|/ɪkˈsaɪtɪd/|feeling very happy and interested|hào hứng|We are excited about the trip.|Bọn mình hào hứng về chuyến đi.|feelings
+proud|adjective|B1|/praʊd/|feeling pleased about what you or others did|tự hào|I'm proud of my little brother.|Mình tự hào về em trai mình.|feelings
+worried|adjective|B1|/ˈwɜːrid/|thinking about problems with fear|lo lắng|She is worried about the test.|Cô ấy lo lắng về bài kiểm tra.|feelings
+kind|adjective|A2|/kaɪnd/|friendly and caring toward others|tốt bụng|A kind person helps others.|Người tốt bụng luôn giúp đỡ người khác.|feelings
+brave|adjective|B1|/breɪv/|not afraid of danger or difficulty|dũng cảm|The brave boy saved the kitten.|Cậu bé dũng cảm đã cứu chú mèo con.|feelings
+sun|noun|A1|/sʌn/|the star that gives us light and heat|mặt trời|The sun rises in the east.|Mặt trời mọc ở hướng đông.|nature,weather
+moon|noun|A1|/muːn/|the bright object in the sky at night|mặt trăng|The moon is full tonight.|Đêm nay trăng tròn.|nature
+star|noun|A1|/stɑːr/|a bright point of light in the night sky|ngôi sao|We counted the stars.|Bọn mình đếm các vì sao.|nature
+rain|noun|A1|/reɪn/|water that falls from clouds|mưa|I love the sound of rain.|Mình thích tiếng mưa.|weather,nature
+snow|noun|A1|/snoʊ/|soft white frozen rain|tuyết|Children play in the snow.|Trẻ con chơi đùa trong tuyết.|weather
+wind|noun|A2|/wɪnd/|moving air outside|gió|The wind is strong today.|Hôm nay gió mạnh.|weather
+cloud|noun|A2|/klaʊd/|a white or grey mass in the sky|đám mây|There are dark clouds above.|Có những đám mây đen phía trên.|weather,nature
+hot|adjective|A1|/hɑːt/|having a high temperature|nóng|It is very hot in July.|Tháng Bảy rất nóng.|weather
+cold|adjective|A1|/koʊld/|having a low temperature|lạnh|Wear a coat; it's cold.|Hãy mặc áo khoác, trời lạnh đấy.|weather
+sunny|adjective|A1|/ˈsʌni/|bright with sunshine|có nắng|It's a sunny day.|Hôm nay trời nắng đẹp.|weather
+river|noun|A2|/ˈrɪvər/|a long stream of water that flows to the sea|con sông|The river is wide here.|Con sông ở đây rất rộng.|nature
+mountain|noun|A2|/ˈmaʊntn/|a very high hill|ngọn núi|We climbed the mountain.|Bọn mình đã leo lên ngọn núi.|nature,travel
+forest|noun|A2|/ˈfɔːrɪst/|a large area full of trees|khu rừng|Many animals live in the forest.|Nhiều loài vật sống trong rừng.|nature
+flower|noun|A1|/ˈflaʊər/|the colorful part of a plant|bông hoa|She picked a red flower.|Cô ấy hái một bông hoa đỏ.|nature
+tree|noun|A1|/triː/|a tall plant with a trunk and branches|cái cây|We sat under a big tree.|Bọn mình ngồi dưới một cái cây lớn.|nature
+environment|noun|B1|/ɪnˈvaɪrənmənt/|the natural world around us|môi trường|We must protect the environment.|Chúng ta phải bảo vệ môi trường.|nature,academic
+weather|noun|A1|/ˈweðər/|the conditions outside, like rain or sun|thời tiết|What's the weather like today?|Hôm nay thời tiết thế nào?|weather
+season|noun|A2|/ˈsiːzn/|one of the four parts of the year|mùa|Spring is my favorite season.|Mùa xuân là mùa mình thích nhất.|weather
+play|verb|A1|/pleɪ/|to do something for fun; to take part in a game|chơi|They play in the park.|Chúng nó chơi trong công viên.|hobbies
+game|noun|A1|/ɡeɪm/|an activity with rules that people play for fun|trò chơi|Let's play a word game.|Chơi một trò chơi từ vựng nhé.|hobbies
+music|noun|A1|/ˈmjuːzɪk/|sounds made by instruments or voices|âm nhạc|I listen to music on the bus.|Mình nghe nhạc trên xe buýt.|hobbies
+sing|verb|A1|/sɪŋ/|to make music with your voice|hát|She likes to sing in the shower.|Cô ấy thích hát trong lúc tắm.|hobbies
+dance|verb|A1|/dæns/|to move your body to music|nhảy múa|We dance at the party.|Bọn mình nhảy trong bữa tiệc.|hobbies
+draw|verb|A1|/drɔː/|to make a picture with a pencil or pen|vẽ|He can draw very well.|Cậu ấy vẽ rất giỏi.|hobbies
+paint|verb|A2|/peɪnt/|to put colour on something with a brush|tô màu, sơn|We paint the wall blue.|Bọn mình sơn bức tường màu xanh.|hobbies
+swim|verb|A1|/swɪm/|to move through water by using your body|bơi|I learned to swim last summer.|Hè năm ngoái mình học bơi.|hobbies,body
+run|verb|A1|/rʌn/|to move fast on your feet|chạy|They run in the park every morning.|Họ chạy bộ trong công viên mỗi sáng.|hobbies,body
+football|noun|A1|/ˈfʊtbɔːl/|a game where two teams kick a ball|bóng đá|We play football after school.|Bọn mình đá bóng sau giờ học.|hobbies
+camera|noun|A2|/ˈkæmərə/|a device for taking photos|máy ảnh|She bought a new camera.|Cô ấy mua một chiếc máy ảnh mới.|hobbies,technology
+photo|noun|A1|/ˈfoʊtoʊ/|a picture taken with a camera|bức ảnh|Let's take a photo together.|Chụp ảnh chung nhé.|hobbies
+hobby|noun|A2|/ˈhɑːbi/|something you enjoy doing in your free time|sở thích|My hobby is collecting stamps.|Sở thích của mình là sưu tầm tem.|hobbies
+computer|noun|A1|/kəmˈpjuːtər/|an electronic machine for work and games|máy tính|I use a computer for homework.|Mình dùng máy tính để làm bài tập.|technology
+phone|noun|A1|/foʊn/|a device for calling and messaging|điện thoại|My phone is out of battery.|Điện thoại mình hết pin rồi.|technology
+internet|noun|A2|/ˈɪntərnet/|the worldwide network that connects computers|mạng internet|The internet is slow today.|Hôm nay mạng internet chậm.|technology
+website|noun|A2|/ˈwebsaɪt/|a place on the internet with information|trang web|This website has English games.|Trang web này có các trò chơi tiếng Anh.|technology
+password|noun|B1|/ˈpæswɜːrd/|a secret word that lets you into an account|mật khẩu|Never share your password.|Đừng bao giờ chia sẻ mật khẩu của bạn.|technology
+message|noun|A2|/ˈmesɪdʒ/|words you send to someone|tin nhắn|I sent her a message.|Mình đã gửi cho cô ấy một tin nhắn.|technology,daily
+download|verb|B1|/ˌdaʊnˈloʊd/|to copy a file from the internet to your device|tải xuống|Download the app for free.|Hãy tải ứng dụng miễn phí.|technology
+screen|noun|A2|/skriːn/|the flat part of a device that shows pictures|màn hình|Don't look at the screen too long.|Đừng nhìn màn hình quá lâu.|technology
+robot|noun|A2|/ˈroʊbɑːt/|a machine that can do tasks by itself|người máy|The robot can clean the floor.|Người máy có thể lau sàn nhà.|technology
+wake|verb|A1|/weɪk/|to stop sleeping|thức dậy|I wake up at six o'clock.|Mình thức dậy lúc sáu giờ.|daily
+wash|verb|A1|/wɑːʃ/|to clean with water|rửa, giặt|Wash your face every morning.|Hãy rửa mặt mỗi buổi sáng.|daily
+brush|verb|A2|/brʌʃ/|to clean or tidy with a brush|đánh (răng), chải|Brush your teeth twice a day.|Đánh răng hai lần mỗi ngày.|daily
+clean|adjective|A1|/kliːn/|not dirty|sạch sẽ|Keep your room clean.|Hãy giữ phòng sạch sẽ.|daily
+dirty|adjective|A2|/ˈdɜːrti/|not clean|bẩn|Your shoes are dirty.|Giày của bạn bẩn rồi.|daily
+open|verb|A1|/ˈoʊpən/|to move a door or lid so things can go in or out|mở|Please open the window.|Làm ơn mở cửa sổ ra.|daily
+close|verb|A1|/kloʊz/|to shut something|đóng|Close the door quietly.|Hãy đóng cửa nhẹ nhàng.|daily
+early|adverb|A1|/ˈɜːrli/|before the usual or planned time|sớm|She arrives early every day.|Cô ấy ngày nào cũng đến sớm.|daily
+late|adverb|A1|/leɪt/|after the usual or planned time|muộn|Don't be late for class.|Đừng đến lớp muộn nhé.|daily
+busy|adjective|A2|/ˈbɪzi/|having a lot to do|bận rộn|My mom is busy on weekdays.|Mẹ mình bận vào các ngày trong tuần.|daily,work
+free|adjective|A2|/friː/|not busy; or not costing money|rảnh; miễn phí|Are you free this Saturday?|Thứ Bảy này bạn có rảnh không?|daily
+money|noun|A1|/ˈmʌni/|coins and notes used to buy things|tiền|I save my money in a box.|Mình để dành tiền trong một cái hộp.|daily
+shop|noun|A1|/ʃɑːp/|a place where you buy things|cửa hàng|The shop opens at nine.|Cửa hàng mở cửa lúc chín giờ.|daily
+buy|verb|A1|/baɪ/|to get something by paying money|mua|I want to buy a new bag.|Mình muốn mua một chiếc cặp mới.|daily
+sell|verb|A2|/sel/|to give something in exchange for money|bán|They sell fresh fruit here.|Ở đây họ bán trái cây tươi.|daily,work
+cheap|adjective|A2|/tʃiːp/|costing little money|rẻ|This notebook is cheap.|Quyển vở này rẻ.|daily
+expensive|adjective|A2|/ɪkˈspensɪv/|costing a lot of money|đắt|That bike is too expensive.|Chiếc xe đạp đó đắt quá.|daily
+house|noun|A1|/haʊs/|a building where people live|ngôi nhà|Their house has a small garden.|Nhà họ có một khu vườn nhỏ.|daily,family
+room|noun|A1|/ruːm/|a part of a building with its own walls|căn phòng|My room is on the second floor.|Phòng mình ở tầng hai.|daily
+kitchen|noun|A1|/ˈkɪtʃɪn/|the room where you cook|nhà bếp|Mom is in the kitchen.|Mẹ đang ở trong bếp.|daily,food
+garden|noun|A2|/ˈɡɑːrdn/|an area of land with flowers or vegetables|khu vườn|Grandpa works in the garden.|Ông làm việc trong vườn.|daily,nature
+city|noun|A1|/ˈsɪti/|a large and important town|thành phố|Ho Chi Minh City is very busy.|Thành phố Hồ Chí Minh rất nhộn nhịp.|travel,daily
+village|noun|A2|/ˈvɪlɪdʒ/|a very small town in the countryside|ngôi làng|My grandparents live in a village.|Ông bà mình sống ở một ngôi làng.|travel,nature
+street|noun|A1|/striːt/|a road in a town with buildings on the sides|đường phố|Cross the street carefully.|Hãy băng qua đường cẩn thận.|daily,travel
+market|noun|A1|/ˈmɑːrkɪt/|a place where people buy and sell goods|chợ|We buy vegetables at the market.|Bọn mình mua rau ở chợ.|daily,food
+job|noun|A2|/dʒɑːb/|work that you do to earn money|công việc|She has an interesting job.|Cô ấy có một công việc thú vị.|work
+farmer|noun|A2|/ˈfɑːrmər/|a person who grows crops or keeps animals|nông dân|The farmer gets up at five.|Bác nông dân thức dậy lúc năm giờ.|work
+engineer|noun|B1|/ˌendʒɪˈnɪr/|a person who designs or builds machines or buildings|kỹ sư|My uncle is an engineer.|Chú mình là kỹ sư.|work
+nurse|noun|A2|/nɜːrs/|a person who takes care of sick people|y tá|The nurse is very gentle.|Cô y tá rất dịu dàng.|work,body
+driver|noun|A2|/ˈdraɪvər/|a person who drives a vehicle|tài xế|The bus driver is friendly.|Bác tài xế xe buýt rất thân thiện.|work,travel
+office|noun|A2|/ˈɔːfɪs/|a place where people do desk work|văn phòng|My mother's office is downtown.|Văn phòng của mẹ mình ở trung tâm.|work
+salary|noun|B1|/ˈsæləri/|money you get regularly for your job|tiền lương|He gets his salary on the last day of the month.|Anh ấy nhận lương vào ngày cuối tháng.|work
+meeting|noun|B1|/ˈmiːtɪŋ/|an event where people talk about work|cuộc họp|The meeting starts at ten.|Cuộc họp bắt đầu lúc mười giờ.|work
+colleague|noun|B2|/ˈkɑːliːɡ/|a person you work with|đồng nghiệp|My colleagues are very helpful.|Các đồng nghiệp của mình rất hay giúp đỡ.|work
+interview|noun|B1|/ˈɪntərvjuː/|a meeting where someone asks you questions for a job|buổi phỏng vấn|I have a job interview tomorrow.|Ngày mai mình có buổi phỏng vấn xin việc.|work
+improve|verb|B1|/ɪmˈpruːv/|to become or make something better|cải thiện|Reading will improve your English.|Đọc sách sẽ cải thiện tiếng Anh của bạn.|academic,school
+achieve|verb|B1|/əˈtʃiːv/|to succeed in doing something with effort|đạt được|She worked hard to achieve her goal.|Cô ấy làm việc chăm chỉ để đạt mục tiêu.|academic
+goal|noun|A2|/ɡoʊl/|something you want to achieve|mục tiêu|My goal is to speak English fluently.|Mục tiêu của mình là nói tiếng Anh trôi chảy.|academic,school
+skill|noun|B1|/skɪl/|an ability to do something well|kỹ năng|Listening is an important skill.|Nghe là một kỹ năng quan trọng.|academic,work
+knowledge|noun|B1|/ˈnɑːlɪdʒ/|what you know about something|kiến thức|Books give us knowledge.|Sách cho chúng ta kiến thức.|academic
+experience|noun|B1|/ɪkˈspɪriəns/|knowledge or skill from doing something|kinh nghiệm|He has a lot of teaching experience.|Thầy ấy có nhiều kinh nghiệm giảng dạy.|academic,work
+solve|verb|B1|/sɑːlv/|to find an answer to a problem|giải quyết|Can you solve this puzzle?|Bạn giải được câu đố này không?|academic
+explain|verb|B1|/ɪkˈspleɪn/|to make something clear by describing it|giải thích|Please explain the rule again.|Làm ơn giải thích lại quy tắc.|academic,school
+describe|verb|B1|/dɪˈskraɪb/|to say what something is like|mô tả|Describe your best friend.|Hãy mô tả người bạn thân nhất của bạn.|academic
+compare|verb|B1|/kəmˈper/|to look at things to see how they are different or similar|so sánh|Compare the two pictures.|Hãy so sánh hai bức tranh.|academic
+opinion|noun|B1|/əˈpɪnjən/|what you think about something|ý kiến|In my opinion, it's a good idea.|Theo ý kiến của mình thì đó là ý hay.|academic
+reason|noun|B1|/ˈriːzn/|why something happens or is done|lý do|What is the reason for being late?|Lý do của việc đến muộn là gì?|academic
+result|noun|B1|/rɪˈzʌlt/|what happens because of something|kết quả|The test results are on the board.|Kết quả bài kiểm tra được dán trên bảng.|academic,school
+information|noun|A2|/ˌɪnfərˈmeɪʃn/|facts about something|thông tin|Where can I find more information?|Mình tìm thêm thông tin ở đâu?|academic,technology
+important|adjective|A2|/ɪmˈpɔːrtnt/|having great value or meaning|quan trọng|Sleep is important for students.|Giấc ngủ rất quan trọng với học sinh.|academic
+difficult|adjective|A2|/ˈdɪfɪkəlt/|not easy to do or understand|khó|This exercise is difficult.|Bài tập này khó.|academic,school
+easy|adjective|A1|/ˈiːzi/|not hard to do|dễ|The first question is easy.|Câu hỏi đầu tiên rất dễ.|academic,school
+different|adjective|A1|/ˈdɪfrənt/|not the same|khác nhau|My sister and I are different.|Chị em mình khác nhau.|academic
+same|adjective|A1|/seɪm/|not different|giống nhau|We have the same bag.|Bọn mình có cùng một kiểu cặp.|academic
+choose|verb|A2|/tʃuːz/|to pick one thing from several|chọn|Choose a topic you like.|Hãy chọn một chủ đề bạn thích.|academic,school
+believe|verb|B1|/bɪˈliːv/|to think something is true|tin tưởng|I believe you can do it.|Mình tin bạn làm được.|feelings,academic
+wonder|verb|B1|/ˈwʌndər/|to want to know about something|tự hỏi|I wonder why the sky is blue.|Mình tự hỏi tại sao bầu trời lại xanh.|academic,feelings

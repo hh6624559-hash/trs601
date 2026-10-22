@@ -1,0 +1,24 @@
+# Trạng thái tính năng (trung thực). verified = có test tự động hoặc chạy trình duyệt; built = có mã, chưa kiểm sâu; deferred = chưa làm
+auth_sessions_csrf_mfa: verified
+policy_matrix_default_deny: verified
+learning_fsrs_sync_offline_queue: verified   # FSRS chưa đối chiếu vector tham chiếu (ADR-0005)
+collections_assignments_locked: verified
+assessments_exam_compose_grading: verified
+economy_ledger_shop_quests_stickers: built
+social_age_rules_block_report: verified
+guardian_privacy_export_delete: verified
+admin_moderation_audit_integrity: verified
+frontend_spa_i18n_pwa: verified              # kiểm bằng Playwright trên Chromium; chưa kiểm Safari/Firefox, chưa kiểm trên thiết bị thật
+mascot_art: placeholder                      # chờ họa sĩ + chủ dự án duyệt (NT-13)
+custom_practice_learner_guardian: verified   # tự soạn + AI; trắc nghiệm; E2E trình duyệt với AI giả
+vocab_import_teacher: verified               # unit + E2E trình duyệt; chỉ CSV/TSV/dán (chưa đọc .xlsx trực tiếp)
+ai_gateway: built                            # fake provider + test; adapter thật UNVERIFIED_API, eval NOT_CALIBRATED; cờ ai.gateway tắt mặc định
+arena_s7: verified                           # unit + E2E trình duyệt; chưa có đội/Elo/vòng nói
+rooms_s5: built                              # P2P mesh (tối đa 12 peer), kiểm bằng media giả; chưa SFU/LiveKit
+ui_v28_design_system: verified               # tương phản, NFC, chụp 3 cỡ sáng/tối
+realtime_chat_s10: deferred
+groups_weekly_newsletter_push: deferred
+postgres_rls: deferred
+legal_dpia_review: deferred
+vietnamese_fonts_self_hosted: deferred       # đang dùng font hệ thống
+room_whiteboard_screenshare: verified          # unit + E2E trình duyệt (canvas giả getDisplayMedia); chưa kiểm trên Safari/Firefox, nền ảnh/PDF chưa có

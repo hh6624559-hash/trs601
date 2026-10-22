@@ -1,0 +1,15 @@
+# Render Blueprint. Bản chạy thử miễn phí: DỮ LIỆU MẤT khi service khởi động lại (không có đĩa).
+# Muốn dùng thật: đổi plan thành starter, bật khối disk bên dưới, và đặt DEMO_MODE=false.
+services:
+  - type: web
+    name: trs6
+    runtime: docker
+    plan: free
+    healthCheckPath: /readyz
+    # disk: { name: trs6-data, mountPath: /data, sizeGB: 1 }   # bỏ comment khi dùng gói trả phí
+    envVars:
+      - { key: NODE_ENV, value: production }
+      - { key: APP_SECRET, generateValue: true }
+      - { key: EMAIL_MODE, value: console }
+      - { key: DEMO_MODE, value: "true" }      # chỉ để chạy thử: giáo viên tự được duyệt
+      # PUBLIC_ORIGIN tự lấy từ RENDER_EXTERNAL_URL; không cần điền.
