@@ -1,0 +1,45 @@
+"""E2E: học sinh (người lớn) và phụ huynh tự soạn đề: tự nhập + AI. Chạy: python3 e2e/practice_e2e.py <base_url> [thư_mục_ảnh]"""
+import sys, os
+from playwright.sync_api import sync_playwright
+base = sys.argv[1]; out = sys.argv[2] if len(sys.argv) > 2 else '/tmp'
+def register(pg, role, email, name, org=None):
+    pg.goto(base + '/#/register'); pg.wait_for_selector('#r-role')
+    pg.select_option('#r-role', role); pg.fill('#r-name', name); pg.fill('#r-email', email); pg.fill('#r-pw', 'Correct-Horse-9'); pg.fill('#r-birth', '1990-05')
+    if org and pg.locator('#r-org').count(): pg.fill('#r-org', org)
+    pg.check('#r-terms'); pg.click('button[type=submit]'); pg.wait_for_timeout(1500)
+with sync_playwright() as p:
+    b = p.chromium.launch()
+    # ---- học sinh người lớn
+    ctx = b.new_context(viewport={'width': 1100, 'height': 900}, locale='vi-VN'); pg = ctx.new_page()
+    errs = []; pg.on('console', lambda m: errs.append(m.text) if m.type == 'error' and '401' not in m.text else None)
+    register(pg, 'learner', 'hs@example.com', 'Minh')
+    pg.goto(base + '/#/practice/mine'); pg.wait_for_selector('#pm-stem')
+    print('LEARNER tabs:', pg.inner_text('[role=tablist]').replace('\n', ' | '))
+    pg.fill('#pm-stem', 'Capital of France?'); pg.fill('#pm-opts', 'Paris\nRome\nMadrid'); pg.fill('#pm-ans', '1'); pg.click('text=Thêm câu vào đề'); pg.wait_for_selector('text=Capital of France?')
+    pg.click('text=AI Gemini ra đề theo yêu cầu'); pg.wait_for_selector('#pm-req')
+    print('AI off note:', 'chưa được bật' in pg.inner_text('main'), '| btn disabled:', pg.locator('button:has-text("Nhờ AI tạo câu")').is_disabled())
+    pg.goto(base + '/#/ai-settings'); pg.wait_for_selector('#ai-on'); pg.check('#ai-on'); pg.wait_for_timeout(900)
+    print('AI settings page for learner OK; sections:', pg.locator('main h2').all_inner_texts())
+    pg.goto(base + '/#/practice/mine'); pg.wait_for_selector('#pm-stem'); pg.click('text=AI Gemini ra đề theo yêu cầu'); pg.wait_for_selector('#pm-req')
+    pg.fill('#pm-req', '3 câu từ vựng về động vật'); pg.fill('#pm-n', '3'); pg.click('text=Nhờ AI tạo câu'); pg.wait_for_selector('text=AI đã thêm 3 câu', timeout=20000)
+    print('PREVIEW items:', pg.locator('.badge.warn').count())
+    pg.screenshot(path=os.path.join(out, 'practice_learner.png'), full_page=True)
+    pg.click('text=Tạo đề luyện tập'); pg.wait_for_url('**#/assignments'); pg.wait_for_selector('text=Đề luyện tập của tôi')
+    print('CREATED -> assignments list shows quiz OK')
+    # ---- phụ huynh
+    ctx2 = b.new_context(viewport={'width': 1100, 'height': 900}, locale='vi-VN'); g = ctx2.new_page()
+    g.on('console', lambda m: errs.append(m.text) if m.type == 'error' and '401' not in m.text else None)
+    register(g, 'guardian', 'ph@example.com', 'Me Lan', 'Nhà Lan')
+    g.goto(base + '/#/g'); g.wait_for_selector('#gc-n'); g.fill('#gc-n', 'Bé Na'); g.fill('#gc-b', '2017-03'); g.fill('#gc-u', 'bena'); g.click('form:has(#gc-n) button[type=submit]'); g.wait_for_timeout(1500)
+    g.reload(); g.wait_for_selector('h3:has-text("Bé Na")'); g.click('h3:has-text("Bé Na")'); g.wait_for_selector('text=Soạn đề cho con')
+    g.click('text=Soạn đề cho con'); g.wait_for_selector('#pm-stem')
+    print('GUARDIAN title:', g.inner_text('h1'))
+    g.fill('#pm-stem', 'Cat is?'); g.fill('#pm-opts', 'con mèo\ncon chó'); g.fill('#pm-ans', '1'); g.click('text=Thêm câu vào đề')
+    g.goto(base + '/#/ai-settings'); g.wait_for_selector('#ai-on'); g.check('#ai-on'); g.wait_for_timeout(900)
+    g.go_back(); g.wait_for_selector('#pm-stem'); g.click('text=AI Gemini ra đề theo yêu cầu'); g.wait_for_selector('#pm-req')
+    print('GUARDIAN AI ready:', not g.locator('button:has-text("Nhờ AI tạo câu")').is_disabled())
+    g.fill('#pm-req', '2 câu từ vựng động vật'); g.fill('#pm-n', '3'); g.click('text=Nhờ AI tạo câu'); g.wait_for_selector('text=AI đã thêm', timeout=20000)
+    g.screenshot(path=os.path.join(out, 'practice_guardian.png'), full_page=True)
+    g.click('text=Tạo đề luyện tập'); g.wait_for_selector('text=Đã gửi đề luyện tập', timeout=8000)
+    print('GUARDIAN sent to child OK')
+    print('errs', errs); b.close()

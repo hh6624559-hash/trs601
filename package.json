@@ -1,0 +1,20 @@
+{
+  "name": "trs6-next-gen",
+  "version": "27.0.0",
+  "private": true,
+  "description": "TRS6 NEXT-GEN: nền tảng học tiếng Anh vừa học vừa chơi (backend + frontend + database, không phụ thuộc ngoài)",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/index.js",
+    "dev": "NODE_ENV=development node --disable-warning=ExperimentalWarning --watch server/index.js",
+    "migrate": "node --disable-warning=ExperimentalWarning scripts/migrate.js",
+    "seed": "node --disable-warning=ExperimentalWarning scripts/seed.js",
+    "create-admin": "node --disable-warning=ExperimentalWarning scripts/create-admin.js",
+    "test": "node --disable-warning=ExperimentalWarning --test --test-concurrency=1 test/*.test.js",
+    "lint": "node scripts/lint.js",
+    "check:contrast": "node scripts/check-contrast.js"
+  }
+}

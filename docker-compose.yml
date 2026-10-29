@@ -1,0 +1,9 @@
+services:
+  trs6:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    ports: ["8080:8080"]
+    volumes: ["trs6-data:/data"]
+volumes:
+  trs6-data:

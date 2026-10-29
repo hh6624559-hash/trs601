@@ -1,0 +1,13 @@
+# Lỗi đã biết / đã sửa
+- Đã sửa: `normAnswer` dùng toLocaleLowerCase('vi') (P-05); SW không tự skipWaiting; Permissions-Policy cho cam/mic.
+- Mở: phòng prejoin tạo 1 dòng console 404 dự kiến khi dò quyền; chưa kiểm Safari/Firefox.
+- Mở: phòng media chỉ chặn quyền ở client trong P2P.
+- Giáo viên chưa được duyệt thấy trang «chờ duyệt» (không còn «Có lỗi xảy ra»); DEMO_MODE tự duyệt cả tài khoản giáo viên đăng ký trước đó khi mở /me. Test bootstrap + E2E `pending_e2e.py`.
+- AI: ô «Số câu» tự nhập 1–30 (chia lô 10 câu); lỗi nhà cung cấp AI hiện mã + thông điệp thật (đã che khoá).
+- Gemini: tên model mặc định gemini-3.8-flash / gemini-3.8-flash-lite; nếu Google trả 404 (model bị gỡ) thì tự lấy danh sách model của khoá và dùng bản flash/flash-lite mới nhất (cache 6 giờ).
+- Ra đề AI hàng loạt tới 1000 câu: >30 câu chạy nền (bảng ai_jobs, thanh tiến độ, nút Dừng); hạn mức AI mặc định 5.000.000 token/tháng, 3000 lượt/ngày (tối đa 100000).
+- AI: câu hỏi + đáp án đúng (✓) hiện ngay trong khung AI khi tạo xong / đang chạy; ngân sách token mặc định 20.000.000/tháng (migration 012).
+- Ra đề hàng loạt nhanh hơn: lô 20 câu, kiểm đáp án song song 5 câu; hiện giai đoạn, thời gian chạy, số lần gọi Gemini thành công/lỗi và lỗi gần nhất.
+- Gemini 503 (quá tải): tự đổi model khác; đợt chạy nền thử lại kiên nhẫn (tới 6 lần, chờ 4s→60s).
+- Ra đề nền nhanh hơn: kiểm đáp án theo lô 10 câu/lần gọi, 2 lô viết câu chạy song song (400 câu: ~60 lần gọi thay vì ~420).
+- AI: bỏ riêng câu sai định dạng (không hỏng cả lô); nút «Kiểm tra kết nối AI» hiện lý do thật; UI cho phép hạn mức tới 1e9 token / 100000 lượt.

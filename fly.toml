@@ -1,0 +1,21 @@
+app = "trs6-ten-cua-ban"
+primary_region = "sin"
+[build]
+[env]
+  NODE_ENV = "production"
+  PORT = "8080"
+  DATABASE_PATH = "/data/trs6.sqlite"
+  PUBLIC_ORIGIN = "https://trs6-ten-cua-ban.fly.dev"
+[[mounts]]
+  source = "trs6_data"
+  destination = "/data"
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = "off"
+  min_machines_running = 1
+  [[http_service.checks]]
+    path = "/readyz"
+    interval = "30s"
+    timeout = "3s"
+# SQLite = một máy duy nhất (không scale ngang). Đặt APP_SECRET:  fly secrets set APP_SECRET=...
